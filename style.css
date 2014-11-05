@@ -1,0 +1,115 @@
+h1 {
+  color: #CC0000;
+    font-family: 'Overpass',Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 0;
+    padding: 20px 0;
+}
+
+h3
+{
+   font-family: 'Overpass', Helvetica, Arial,sans-serif;
+}
+
+h2
+{
+    font-family: 'Overpass', Helvetica, Arial,sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  
+}
+
+#is-right-for-you-container {
+  max-width: 650px;
+}
+
+.icon {
+  display: inline-block;
+  float:left;
+  width: 170px;
+  
+}
+
+.text {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin-left: 175px;
+  
+  padding-bottom:45px;
+ 
+  display: block;
+  text-align: left;
+  clear: right;
+}
+
+.section-purpose {
+  display: none;
+}
+
+ 
+
+.purpose {
+  border-bottom: 1px solid #014E6D;
+  font-family: Overpass, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: bold;
+  color: #014E6D;
+
+  margin-bottom: 15px;
+}
+
+.section-passion {
+  display: none;
+}
+
+.passion {
+  font-family: Overpass, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #F99D1C;
+  color: #F99D1C;
+  
+  margin-bottom: 15px;
+}
+
+.section-community {
+  display: none;
+}
+
+.community {
+  font-family: Overpass, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #00A1E1;
+  color: #00A1E1;
+  
+  margin-bottom: 15px;
+}
+
+.section-opportunity {
+  display: none;
+}
+
+.opportunity {
+  font-family: Overpass, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #66B648;
+  color: #66B648;
+  
+  margin-bottom: 15px;
+}
