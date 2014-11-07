@@ -69,6 +69,10 @@ p {
   padding: 7px 0px 7px 10px;
 }
 
+.purpose:hover {
+  background-color: #CC0303;
+  color: white;
+}
 
 
 .section-passion {
