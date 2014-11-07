@@ -65,7 +65,7 @@ p {
   font-weight: bold;
   color: #014E6D;
   background-color: #E0E0E0;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   padding: 7px 0px 7px 10px;
 }
 
@@ -82,7 +82,9 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #F99D1C;
   color: #F99D1C;
+  background-color: #E0E0E0;
   margin-bottom: 15px;
+  padding: 7px 0px 7px 10px;
   margin: 0 0 5px;
 }
 
@@ -97,8 +99,9 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #00A1E1;
   color: #00A1E1;
-  
+  background-color: #E0E0E0;
   margin-bottom: 15px;
+  padding: 7px 0px 7px 10px;
 }
 
 .section-opportunity {
@@ -113,5 +116,7 @@ p {
   border-bottom: 1px solid #66B648;
   color: #66B648;
   
+  background-color: #E0E0E0;
   margin-bottom: 15px;
+  padding: 7px 0px 7px 10px;
 }
