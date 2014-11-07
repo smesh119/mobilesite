@@ -81,8 +81,8 @@ p {
   font-weight: bold;
   border-bottom: 1px solid #F99D1C;
   color: #F99D1C;
-  
   margin-bottom: 15px;
+  margin: 0 0 5px;
 }
 
 .section-community {
