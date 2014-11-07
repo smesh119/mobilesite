@@ -91,6 +91,11 @@ p {
   margin: 0 0 5px;
 }
 
+.passion:hover {
+  background-color: #CC0303;
+  color: white;
+}
+
 .section-community {
   display: none;
 }
@@ -104,6 +109,11 @@ p {
   background-color: #E0E0E0;
   margin-bottom: 5px;
   padding: 7px 0px 7px 10px;
+}
+
+.community:hover {
+  background-color: #CC0303;
+  color: white;
 }
 
 .section-opportunity {
@@ -120,4 +130,8 @@ p {
   background-color: #E0E0E0;
   margin-bottom: 5px;
   padding: 7px 0px 7px 10px;
+}
+.opportunity:hover {
+  background-color: #CC0303;
+  color: white;
 }
